@@ -1,0 +1,18 @@
+.footer {
+  height: 80px;
+  background-color: #2C2B2B;
+  padding: 80px;
+  text-align: center;
+}
+
+.footer p {
+  display: block;
+  color: rgba(150,150,150,0.7);
+}
+
+.footer li {
+  display: inline;
+  color: #34DD88;
+  font-size: 30px;
+  padding: 5px;
+}
